@@ -1,6 +1,6 @@
 ###  Olá, me chamo Pedro Martins 👋
 
-### Seja bem vindo ao meu portfólio de repositórios, compartilho os projetos que desenvolvo, evidenciando minha jornada de aprendizado 💻📚
+### Seja bem vindo ao meu portfólio de repositórios, compartilho os projetos e registro minha jornada de aprendizado 💻📚
 
  <div>
    <a href="https://github.com/pedromartinsbda">
