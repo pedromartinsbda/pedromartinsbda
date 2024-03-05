@@ -1,5 +1,6 @@
-### Olá, Eu sou o Pedro Martins, compartilho os projetos que desenvolvo, evidenciando minha jornada de aprendizado.
+###  Olá, me chamo Pedro Martins 👋
 
+### Seja bem vindo ao meu portfólio de repositórios, compartilho os projetos que desenvolvo, evidenciando minha jornada de aprendizado 💻📚
 
  <div>
    <a href="https://github.com/pedromartinsbda">
@@ -18,7 +19,7 @@
  
 <br>
  
-### Contatos
+## Contato
  
 <div> 
   <a href="https://instagram.com/_pdromartins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
