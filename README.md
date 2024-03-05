@@ -1,4 +1,4 @@
-## Olá, Eu sou o Pedro Martins, compartilho os projetos que desenvolvo, evidenciando minha jornada de aprendizado e as soluções criativas que implemento para resolver problemas. Esses projetos são um testemunho do meu compromisso com a excelência e com a evolução contínua.
+### Olá, Eu sou o Pedro Martins, compartilho os projetos que desenvolvo, evidenciando minha jornada de aprendizado e as soluções que implemento para resolver problemas. Esses projetos fazem parte do meu aprendizado como desenvolvedor.
 
 
  <div>
