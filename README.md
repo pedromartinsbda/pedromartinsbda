@@ -1,4 +1,4 @@
-## Olá, Eu sou o Pedro Martins 👋
+## Olá, Eu sou o Pedro Martins, compartilho os projetos que desenvolvo, evidenciando minha jornada de aprendizado e as soluções criativas que implemento para resolver problemas. Esses projetos são um testemunho do meu compromisso com a excelência e com a evolução contínua.
 
 
  <div>
