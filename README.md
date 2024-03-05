@@ -1,4 +1,4 @@
-### Olá, Eu sou o Pedro Martins, compartilho os projetos que desenvolvo, evidenciando minha jornada de aprendizado e as soluções que implemento para resolver problemas. Esses projetos fazem parte do meu aprendizado como desenvolvedor.
+### Olá, Eu sou o Pedro Martins, compartilho os projetos que desenvolvo, evidenciando minha jornada de aprendizado.
 
 
  <div>
